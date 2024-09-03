@@ -1,0 +1,2 @@
+import{aX as r,aY as i}from"./ozzpumen10p6g0yq.js";import{s as f,t as a}from"./mafougdlzkh8qo68.js";var u=864e5;function D(t,e){r(2,arguments);var s=f(t),n=f(e),m=s.getTime()-i(s),o=n.getTime()-i(n);return Math.round((m-o)/u)}function c(t,e){return r(2,arguments),a(t).getTime()-a(e).getTime()}function v(t){r(1,arguments);var e=a(t);return e.setHours(23,59,59,999),e}export{c as a,D as d,v as e};
+//# sourceMappingURL=o1ngi5g6kc1pvwll.js.map
