@@ -21,3 +21,4 @@ As you sit with this blank page, know that it’s okay to be here. You’ve disc
 Now, when you're ready, slowly return to your search. Trust that the right page, the right information, will appear when you need it. Take another deep breath, and when you exhale, click back or try again. The internet, like life, is full of surprises.
 
 Thank you for taking this moment of calm. Your journey continues.`}];export{d as clientLoader,m as default};
+//# sourceMappingURL=kenbgv4ixniy3k4f.js.map

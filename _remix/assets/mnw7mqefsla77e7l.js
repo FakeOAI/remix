@@ -1,1 +1,2 @@
 import{S as e,r as o,Z as t,j as n}from"./bahzwkph2ne3eyls.js";import"./l2euh9jr36irqfhd.js";function u(){const r=e();return o.useEffect(()=>{t.addError("This page should never be rendered."),r.push("/")},[r]),null}function i(){return n.jsx(u,{})}export{i as default};
+//# sourceMappingURL=mnw7mqefsla77e7l.js.map
