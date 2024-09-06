@@ -1,1 +1,0 @@
-import{S as r,r as s,j as t}from"./k9l0508ak3e7lzcr.js";import"./hb601xkanolcuyaq.js";function a(){const e=r();return s.useEffect(()=>{e.push("/#disable_mfa")},[e]),t.jsx(t.Fragment,{})}function f(){return t.jsx(a,{})}export{f as default};
