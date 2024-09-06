@@ -1,0 +1,2 @@
+import{S as r,r as s,j as t}from"./e80s9x9phit586fh.js";import"./g8qf5jn9kid9awdx.js";function a(){const e=r();return s.useEffect(()=>{e.push("/#disable_mfa")},[e]),t.jsx(t.Fragment,{})}function f(){return t.jsx(a,{})}export{f as default};
+//# sourceMappingURL=l87hq9ec420f9rgl.js.map
