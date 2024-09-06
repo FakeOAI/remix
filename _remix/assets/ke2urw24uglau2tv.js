@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/8xamkbrmtzmwhn4b.js","assets/ofly9yrztlesgrye.js","assets/pbk6784aea0pnvmy.js","assets/root-cmvuzs81.css"])))=>i.map(i=>d[i]);
-import{bT as n,bU as o,bS as a}from"./ofly9yrztlesgrye.js";import"./pbk6784aea0pnvmy.js";function _(r){return n(this,void 0,void 0,function(){var t;return o(this,function(i){switch(i.label){case 0:return[4,a(()=>import("./8xamkbrmtzmwhn4b.js").then(e=>e.i),__vite__mapDeps([0,1,2,3]))];case 1:return t=i.sent(),r._plugins=t,[2]}})})}export{_ as loadLegacyVideoPlugins};
