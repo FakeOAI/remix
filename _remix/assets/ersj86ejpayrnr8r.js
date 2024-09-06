@@ -1,1 +1,0 @@
-import{j as t,c as a}from"./e80s9x9phit586fh.js";import{a2 as n}from"./g8qf5jn9kid9awdx.js";function i({className:r,checked:o}){return t.jsx(n,{className:a("icon-sm transform transition-transform duration-200",r,o?"rotate-0":"ltr:-rotate-90 rtl:rotate-90")})}export{i as A};

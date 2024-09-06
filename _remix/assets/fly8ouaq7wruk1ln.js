@@ -1,1 +1,0 @@
-import{j as s,S as n,r as u}from"./e80s9x9phit586fh.js";import"./g8qf5jn9kid9awdx.js";function o(){return s.jsx(a,{})}function a(){const t=n(),{next:r}=t.query,e=typeof r=="string"&&r.startsWith("/")?r:"/";return u.useEffect(()=>{t.push(e)},[e,t]),null}function x(){return s.jsx(o,{})}export{x as default};
