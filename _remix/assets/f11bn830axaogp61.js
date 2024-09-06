@@ -1,1 +1,0 @@
-import{S as e,r as o,Z as t,j as n}from"./k9l0508ak3e7lzcr.js";import"./hb601xkanolcuyaq.js";function u(){const r=e();return o.useEffect(()=>{t.addError("This page should never be rendered."),r.push("/")},[r]),null}function i(){return n.jsx(u,{})}export{i as default};

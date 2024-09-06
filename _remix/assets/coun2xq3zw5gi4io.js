@@ -1,1 +1,0 @@
-import{r as s,F as n,T as u}from"./k9l0508ak3e7lzcr.js";import{_ as c}from"./k75xn48p5owkb1in.js";function C(e){const[r,t]=s.useState(null),o=a=>{a&&t(a)};return typeof e=="function"?[r,o]:[e.current,n]}var f=c,m=f(function(e,r,t){return e+(t?"_":"")+r.toLowerCase()}),l=m;const k=u(l);export{k as s,C as u};
