@@ -1,0 +1,2 @@
+import{bi as t,j as a,aD as o}from"./nkav6u5sgjh9k32o.js";import{a as r,G as n,H as m}from"./l1c2tudfmeklm41h.js";import{S as d,N as x}from"./eanb92ptiqx10lnm.js";import{bi as j,a0 as v}from"./fvuv8t2jnmmokuz9.js";function b({children:e,header:s}){const i=t();return a.jsxs(d,{mobileHeaderRightContent:null,sidebar:a.jsxs(x,{navHeader:a.jsx(r,{className:"flex h-14 items-center",onNewThread:()=>j(i)}),children:[a.jsx(v,{}),a.jsx(n,{}),a.jsx(m,{activeId:void 0})]}),children:[s,a.jsx(o,{children:e})]})}export{b as G};
+//# sourceMappingURL=jv7xws6gf7xcv34k.js.map
