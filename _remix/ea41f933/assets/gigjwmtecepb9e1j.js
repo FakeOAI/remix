@@ -1,0 +1,2 @@
+import{V as u,r as i,j as o}from"./hehcvio4m1gb3l50.js";import{bd as d,be as m}from"./d1od5t75rjre0q37.js";import{g as h,a as p,i as f}from"./e4ms6cv3spqg117n.js";function k(t){const e=u(),s=t.conversationId??h(e.asPath),a=f(s),{close:n,isOpen:r,onOpen:l,type:c}=d();return i.useEffect(()=>{a&&e.replace("/",void 0,{shallow:!0})},[a,e]),a?null:o.jsxs(o.Fragment,{children:[r?o.jsx(m,{onClose:n,onOpen:l,type:c}):null,o.jsx(p,{...t,urlThreadId:s})]})}export{k as D};
+//# sourceMappingURL=gigjwmtecepb9e1j.js.map
