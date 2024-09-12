@@ -1,0 +1,2 @@
+import{W as u,r as i,j as o}from"./f7fcphlcmge2bakt.js";import{bc as d,bd as m}from"./btwi9uxkutuvbi6k.js";import{g as h,a as p,i as f}from"./etn4cxeheavqmn23.js";function W(t){const e=u(),s=t.conversationId??h(e.asPath),a=f(s),{close:n,isOpen:r,onOpen:l,type:c}=d();return i.useEffect(()=>{a&&e.replace("/",void 0,{shallow:!0})},[a,e]),a?null:o.jsxs(o.Fragment,{children:[r?o.jsx(m,{onClose:n,onOpen:l,type:c}):null,o.jsx(p,{...t,urlThreadId:s})]})}export{W as D};
+//# sourceMappingURL=n31oofbur664tv83.js.map
