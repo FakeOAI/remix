@@ -1,0 +1,2 @@
+import{u as e,R as o,aQ as n,aR as a}from"./l8rxl89ki17pr98v.js";import"./niys9t9a5yd9d6hx.js";const r=async()=>{try{const t=await o.requestMfaToken();if(!t||!t.state_token)throw new Error("Failed to fetch MFA token");return t.state_token}catch{window.location.href=n(a.ENABLE_MFA_ERROR,"/#settings/Security")}};function u(){const{data:t}=e({queryKey:["mfaToken"],queryFn:r});return t&&(window.location.href=`https://auth.openai.com/totp_enroll?mfa_token=${t}`),null}export{u as default};
+//# sourceMappingURL=dgqfocpe1tgzq999.js.map
