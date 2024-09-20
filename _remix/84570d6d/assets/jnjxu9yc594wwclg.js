@@ -1,0 +1,2 @@
+import{dR as e,r,ak as s,P as o,A as a,j as i}from"./lcs8amlj6u8bbv8a.js";import{P as m}from"./h6vcant3lnuvh4z3.js";import"./bpr39nud2l2ri9ju.js";import"./mhenka8kv2zo8x47.js";import"./e71ale0donucmqlv.js";import"./cvpamzns278krs3m.js";import"./lr22bfk7kqa4nsub.js";import"./ffpf4s5us4icwkru.js";import"./iej0cupg2dqkmejt.js";function E(){const t=e();return r.useEffect(()=>{t&&(s.logEvent("chatgpt_referral_trial_payment_success"),o.logEvent(a.chatgptReferralTrialPaymentSuccess))},[t]),i.jsx(m,{isTrial:!0})}export{E as default};
+//# sourceMappingURL=jnjxu9yc594wwclg.js.map
