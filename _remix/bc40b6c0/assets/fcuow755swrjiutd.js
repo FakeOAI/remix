@@ -1,0 +1,2 @@
+import{Y as i,dS as e,dT as o,cd as a,bE as n,a9 as p,dU as y,dV as f,dW as g}from"./cq30atfn4hkan4n6.js";var c=e,m=o,d=a,A=n,_=p,b=y,T=f,E=g,j="[object Map]",P="[object Set]",h=Object.prototype,x=h.hasOwnProperty;function O(r){if(r==null)return!0;if(_(r)&&(A(r)||typeof r=="string"||typeof r.splice=="function"||b(r)||E(r)||d(r)))return!r.length;var t=m(r);if(t==j||t==P)return!r.size;if(T(r))return!c(r).length;for(var s in r)if(x.call(r,s))return!1;return!0}var k=O;const w=i(k);export{w as i};
+//# sourceMappingURL=fcuow755swrjiutd.js.map
