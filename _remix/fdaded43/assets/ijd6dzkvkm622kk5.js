@@ -1,0 +1,2 @@
+import{d as t,a as u}from"./eqcxzjn9id7dzxk0.js";import{bw as i}from"./o7uqz2086hs2sxty.js";import{ai as c,d_ as l,ay as n,r as o}from"./n62zftee9av9wxib.js";function v(){return c(l("routes/admin"))}function g(){const e=i(a=>a.currentWorkspace),s=e!=null?t(e.role):void 0,r=n();o.useEffect(()=>{s===!1&&r("/admin")},[s,r])}function p(){const e=i(a=>a.currentWorkspace),s=e!=null?u(e.role):void 0,r=n();o.useEffect(()=>{s===!1&&r("/admin")},[s,r])}export{g as a,p as b,v as u};
+//# sourceMappingURL=ijd6dzkvkm622kk5.js.map
