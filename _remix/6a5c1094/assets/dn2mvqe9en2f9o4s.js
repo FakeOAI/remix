@@ -1,0 +1,2 @@
+import{j as a,r,a4 as e,aE as s,d$ as n}from"./byjsl6fmrkvfkikz.js";import{u}from"./f8p5ue3fgsbqdefq.js";import"./mkdzigrfhg3ljd4p.js";const c=async o=>{await s.signOut({callbackUrl:o}),n()};function i({federatedLogoutUri:o}){return r.useEffect(()=>{c(o??window.location.origin).catch(t=>e.addError(new Error("Failed to logout",{cause:t})))},[o]),null}function d(){const o=u();return a.jsx(i,{...o})}export{d as default};
+//# sourceMappingURL=dn2mvqe9en2f9o4s.js.map
