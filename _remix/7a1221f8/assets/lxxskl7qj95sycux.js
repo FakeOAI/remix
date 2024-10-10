@@ -1,0 +1,2 @@
+import{h as o,j as n,c1 as a,c2 as r}from"./pcg3wlqr9bj2vzgy.js";import"./k3fj5qj7u1fb9jyd.js";const s=async()=>{try{const t=await n.requestMfaToken();if(!t||!t.state_token)throw new Error("Failed to fetch MFA token");return t.state_token}catch{window.location.href=a(r.ENABLE_MFA_ERROR,"/#settings/Security")}};function f(){const{data:t}=o({queryKey:["mfaToken"],queryFn:s});if(t){const e="ChatGPT";window.location.href=`https://auth.openai.com/totp_enroll?origin_app_name=${e}&mfa_token=${t}`}return null}export{f as default};
+//# sourceMappingURL=lxxskl7qj95sycux.js.map
