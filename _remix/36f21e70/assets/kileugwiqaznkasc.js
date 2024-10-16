@@ -1,0 +1,2 @@
+import{l as a,m as s}from"./ba3fwhhjky1m504d.js";import{c as t}from"./nvd0p58sqo8se13g.js";import{G as i}from"./dnytedm08a8h3kff.js";function p({href:r,children:e,...n}){const o=t();return a.jsx("a",{href:i(r),target:"_blank",rel:o?"noopener noreferrer":"noopener",...n,children:e})}function c({className:r,openNewTab:e=!1,type:n="primary",...o}){return a.jsx("a",{rel:"noopener",className:s("cursor-pointer font-normal underline",n==="primary"&&"text-green-600",r),target:e?"_blank":"_self",...o})}export{p as E,c as L};
+//# sourceMappingURL=kileugwiqaznkasc.js.map
