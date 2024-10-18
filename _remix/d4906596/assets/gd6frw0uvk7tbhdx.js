@@ -1,0 +1,2 @@
+import{dN as e,r as s,ab as o,P as a,d as p,aP as r,l as c}from"./i02hakaw1yz2cb0w.js";import{P as m}from"./bk6xu5ruqaln2np5.js";import"./oolxnb4itrwnjqyf.js";import"./ckygyr7dh5h6j13j.js";import"./j1601v2ihcbk1gfj.js";import"./oap30ledw1k6is17.js";import"./fo1cpvmyviez6pdv.js";import"./iej0cupg2dqkmejt.js";function E(){const t=e();return s.useEffect(()=>{t&&(o.logEvent("chatgpt_plus_payment_success_page"),a.logEvent(p.chatgptSubscriptionPaymentSuccessPage,{plan_type:r.PLUS}))},[t]),c.jsx(m,{})}export{E as default};
+//# sourceMappingURL=gd6frw0uvk7tbhdx.js.map

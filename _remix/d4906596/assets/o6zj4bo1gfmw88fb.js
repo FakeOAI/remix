@@ -1,0 +1,2 @@
+import{dN as e,r as s,ab as a,P as o,d as r,aP as p,l as m}from"./i02hakaw1yz2cb0w.js";import{P as c}from"./bk6xu5ruqaln2np5.js";import"./oolxnb4itrwnjqyf.js";import"./ckygyr7dh5h6j13j.js";import"./j1601v2ihcbk1gfj.js";import"./oap30ledw1k6is17.js";import"./fo1cpvmyviez6pdv.js";import"./iej0cupg2dqkmejt.js";function E(){const t=e();return s.useEffect(()=>{t&&(a.logEvent("chatgpt_team_payment_success"),o.logEvent(r.chatgptSubscriptionPaymentSuccessPage,{plan_type:p.TEAM}))},[t]),m.jsx(c,{isTrial:!1,isTeam:!0})}export{E as default};
+//# sourceMappingURL=o6zj4bo1gfmw88fb.js.map
