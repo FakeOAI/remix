@@ -1,0 +1,2 @@
+import{t as e,a0 as t}from"./om77559u6zbv0nxn.js";import{J as s}from"./nbc7lxss689jfxsu.js";function i(){return e.jsxs("p",{className:"flex items-center justify-center text-pretty text-xs text-gray-500",children:[e.jsx(s,{className:"icon-xs mr-2"}),e.jsx(t,{id:"threadLayout.sharedConversationPrivateDisclaimer",defaultMessage:"Messages beyond this point are only visible to you"})]})}export{i as ChatScreenSharedConversationPrivateDisclaimer};
+//# sourceMappingURL=opfns66d4zd4bs5e.js.map
