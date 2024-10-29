@@ -1,0 +1,2 @@
+import{ak as o,al as c}from"./qfbd1m68i3f79d2v.js";import{aV as l,aW as i,aX as u,r as f,b0 as h,b1 as m,b2 as g}from"./jhno4ztl0c7en2b3.js";import"./bikeswsjdfafx26d.js";function d(){const[a]=l(),t=a.get("next"),r=t?.startsWith("/")?t:"/",s="/auth/ext_callback_refresh?next="+encodeURIComponent(r),e=i(u("1977905538").config.value);return f.useEffect(()=>{const n=o(a,!1,e.forwardToAuthApi);h.signIn(n,{callbackUrl:s||"/"},{...c(m()),...g(e)})},[]),null}export{d as default};
+//# sourceMappingURL=m7ree06ed7w1bon2.js.map

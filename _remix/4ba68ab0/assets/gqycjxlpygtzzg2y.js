@@ -1,0 +1,2 @@
+import{bg as a,bv as n,r as o,x as s,aq as i,j as c,ar as u}from"./jhno4ztl0c7en2b3.js";import{bC as f}from"./qfbd1m68i3f79d2v.js";import"./bikeswsjdfafx26d.js";function x(){const t=a(),r=n();return o.useEffect(()=>{(async()=>{try{const e=await c.getCheckoutLink(r);window.location.href=e.url}catch(e){if(e instanceof u&&e.isServerError()&&e?.message===f.ALREADY_PAID){t("/");return}}})()},[t,r]),s.jsx("div",{className:"flex h-full w-full items-center justify-center",children:s.jsx(i,{})})}export{x as default};
+//# sourceMappingURL=gqycjxlpygtzzg2y.js.map
