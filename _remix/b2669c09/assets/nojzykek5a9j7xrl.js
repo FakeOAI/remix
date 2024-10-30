@@ -1,0 +1,2 @@
+import{y as e,a1 as t}from"./ggdh7pjp5xcwrnsg.js";import"./mkisucl9ntf4tsct.js";function o(){return e.jsx("p",{className:"text-pretty text-center text-xs text-gray-500",children:e.jsx(t,{id:"threadLayout.sharedConversationCopyDisclaimer",defaultMessage:"This is a copy of a conversation between ChatGPT & Anonymous."})})}export{o as ChatScreenSharedConversationCopyDisclaimer};
+//# sourceMappingURL=nojzykek5a9j7xrl.js.map
