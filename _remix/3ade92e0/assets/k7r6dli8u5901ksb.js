@@ -1,0 +1,2 @@
+import{F as n}from"./m5dixe5n71jzyt0l.js";import{ah as e,t as r,r as c}from"./jipkz7wahhvzzuqx.js";import"./lbv1zpv4g2ap41f2.js";import"./e6zhtx99a7i1g9zc.js";import"./n5nz8vnsxibd6bik.js";import"./hu4ya3hu1q2mtj3c.js";function f(){const t=e(),{value:a}=r("1422501431");return c.useEffect(()=>{t&&(a?n.setCurrentAccountV2(t):n.setCurrentAccount(t),n.init())},[t,a]),null}export{f as FannyPackInitializer};
+//# sourceMappingURL=k7r6dli8u5901ksb.js.map
