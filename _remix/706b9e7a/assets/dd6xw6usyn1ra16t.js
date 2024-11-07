@@ -1,0 +1,2 @@
+import{r as e,a6 as c}from"./bve7stqsvuyp30oy.js";const u="sandbox-ready",f=e.memo(function(s){const a=e.useRef(null),[t,o]=e.useState(null),r=e.useCallback(n=>{n.source===a?.current?.contentWindow&&n.data===u&&o(n.ports[0])},[]);return e.useEffect(()=>(window.addEventListener("message",r),()=>window.removeEventListener("message",r)),[r]),e.useEffect(()=>{t&&s.srcDoc!==void 0&&t.postMessage(s.srcDoc)},[t,s.srcDoc]),c.jsx("iframe",{className:s.className,src:"/sandbox",ref:a})});export{f as S,u as s};
+//# sourceMappingURL=dd6xw6usyn1ra16t.js.map
