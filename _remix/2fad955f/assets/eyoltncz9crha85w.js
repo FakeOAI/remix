@@ -1,0 +1,2 @@
+import{h}from"./dxebepq3id20w15z.js";import{X as i,r as o,bo as s}from"./orw3ylzo1pm5yat5.js";import"./fx9bt06582fbthzh.js";function c(){const[a]=i(),e=h(),r=o.useRef(!1);return o.useEffect(()=>{if(r.current)return;r.current=!0;let t;const u=a.get("auth_flow");u==="auth0"?t=s.Auth0:u==="authapi"&&(t=s.AuthApi),e({authType:"login",forceAuthFlow:t})},[e,a]),null}export{c as default};
+//# sourceMappingURL=eyoltncz9crha85w.js.map
