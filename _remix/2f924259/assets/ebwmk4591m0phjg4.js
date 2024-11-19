@@ -1,0 +1,2 @@
+import{j as r}from"./f2udakjpoavu4gos.js";import{cf as a,c9 as c}from"./sfdamp1qo3tlrbo9.js";import{u as s}from"./eoxk6jc1sihoamw3.js";import"./ml8qzer8gjkdgre1.js";import"./bf4mygkz70y2k44z.js";import"./dw4ohkztugv9vtln.js";function k({className:o,icon:t}){const{openSearch:n}=s();return r.jsx(a,{className:o,onClick:n,icon:t,label:c()})}export{k as FannyPackIconButton};
+//# sourceMappingURL=ebwmk4591m0phjg4.js.map
