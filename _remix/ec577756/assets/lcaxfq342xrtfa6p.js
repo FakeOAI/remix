@@ -1,0 +1,2 @@
+import{f as n,h as c,i as l}from"./fyt1hge1ccf9ht9j.js";import{a0 as i,r as u,bo as h,bp as f}from"./f8ly35acw3qxzik9.js";import"./j2xc9x57v64ox5i6.js";function p(){const[t]=i(),e=t.get("next"),r=e?.startsWith("/")?e:"/",a="/auth/ext_callback_refresh?next="+encodeURIComponent(r),s=n();return u.useEffect(()=>{const o=s??c(t,!1,!1);h.signIn(o,{callbackUrl:a||"/"},{...l(f())})},[]),null}export{p as default};
+//# sourceMappingURL=lcaxfq342xrtfa6p.js.map
