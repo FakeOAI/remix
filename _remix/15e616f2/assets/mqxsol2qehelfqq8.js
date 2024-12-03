@@ -1,0 +1,2 @@
+import{b1 as a,m as e,fu as s}from"./jof5w6fcuovfw2f6.js";import{P as n}from"./o3buswj1syork6zt.js";import{o}from"./kmoqtqt6p506agf3.js";function m(){const{isUnauthenticated:t}=a(),{clientThreadId:r}=o();return t?null:e.jsx("div",{className:s.profileInContent,style:{viewTransitionName:"var(--vt-profile-avatar-thread)"},children:e.jsx(n,{clientThreadId:r})})}export{m as C};
+//# sourceMappingURL=mqxsol2qehelfqq8.js.map
