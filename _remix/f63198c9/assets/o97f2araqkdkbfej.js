@@ -1,0 +1,2 @@
+import{ae as a,bG as n,r as o,m as s,ck as c,a0 as i,cB as u}from"./oxu1g7ovqac4x1gm.js";import{aP as f}from"./gnak5wbxgigpi788.js";import"./l2dlwlym9v3m5hew.js";function d(){const t=a(),r=n();return o.useEffect(()=>{(async()=>{try{const e=await i.getCheckoutLink(r);window.location.href=e.url}catch(e){if(e instanceof u&&e.isServerError()&&e?.message===f.ALREADY_PAID){t("/");return}}})()},[t,r]),s.jsx("div",{className:"flex h-full w-full items-center justify-center",children:s.jsx(c,{})})}export{d as default};
+//# sourceMappingURL=o97f2araqkdkbfej.js.map
