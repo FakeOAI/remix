@@ -1,0 +1,2 @@
+import{r as n,D as e,m as a,aE as s}from"./o3hxkjnxmrwn1xdu.js";import{bO as c,N as r,bP as i,bb as f}from"./or7edzll6u1n7tqg.js";import{u as m}from"./isb31kc1hf2e3mcx.js";import"./kdyshfuo29gz6wzi.js";import"./hindyi1eoo8kg761.js";function b({className:o}){const{openSearch:t}=m();return n.useEffect(()=>{e.addAction("fannypack.web.action_seen")},[]),a.jsx(c,{sideOffset:4,className:s("flex",o),children:a.jsx(r,{"aria-label":i(),onClick:t,icon:f,surfaceContext:"secondary"})})}export{b as FannyPackAction};
+//# sourceMappingURL=o6cfvwu98guy8e6o.js.map
